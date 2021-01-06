@@ -5,3 +5,8 @@
      <li>Terrain: pour ajouter des nouveaux terrains</li>
      <li>Reservation : pour reserver un terrain </li>
   </ul>
+## Commentaires et problèmes:
+
+Nous apprécions vraiment vos commentaires. Si vous souhaitez voir des améliorations , vous pouvez envoyer un e-mail  aux : 
+*anassdbilij@gmail.com* <br>
+*elguendouzoumaima@gmail.com* <br>
